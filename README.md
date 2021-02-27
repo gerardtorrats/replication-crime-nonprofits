@@ -1,1 +1,1 @@
-This repository contains the data and code to replicate the analyses for Sharkey, Patrick, Gerard Torrats-Espinosa and Delaram Takyar. 2017. “Community and the Crime Decline: The Causal Effect of Local Nonprofits on Violent Crime.” *American Sociological Review* 82(6):1214-40
+This repository contains the data and code to replicate the analyses for Sharkey, Patrick, Gerard Torrats-Espinosa and Delaram Takyar. 2017. “Community and the Crime Decline: The Causal Effect of Local Nonprofits on Violent Crime.” *American Sociological Review* 82(6):1214-40.
